@@ -17,7 +17,4 @@ A Second Year Information Technology student at Batangas State University - Alan
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=axelgabriel28&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=axelgabriel28&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
