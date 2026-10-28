@@ -1,7 +1,7 @@
 # Hi there, I'm Axel! 👋
 
 ## 💫 About Me:
-A Second Year Information Technology student at Batangas State University - Alangilan. I am currently focused on building prototypes, continuously upskilling, and deepening my knowledge in **Java** and core web app development principles.<br><br>This profile serves as a living documentation of my journey in programming and the projects I build along the way.
+A Second Year Information Technology student at Batangas State University. I am currently focused on building prototypes, continuously upskilling, and deepening my knowledge in **Java** and core web app development principles.<br><br>This profile serves as a living documentation of my journey in programming and the projects I build along the way.
 
 
 ## 🌐 Socials:
